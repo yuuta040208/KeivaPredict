@@ -1,0 +1,10 @@
+/__pycache__/*
+/.idea/*
+
+/dataset/*
+/infodata/*
+/model/*
+/oddsdata/*
+/output/*
+!.gitkeep
+/*.csv
